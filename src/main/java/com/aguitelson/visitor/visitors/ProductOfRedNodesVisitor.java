@@ -1,4 +1,10 @@
-class ProductOfRedNodesVisitor extends TreeVis {
+package com.aguitelson.visitor.visitors;
+
+import com.aguitelson.visitor.architecture.TreeLeaf;
+import com.aguitelson.visitor.architecture.TreeNode;
+import com.aguitelson.visitor.architecture.TreeVis;
+
+public class ProductOfRedNodesVisitor extends TreeVis {
     public int getResult() {
         //implement this
         return 1;

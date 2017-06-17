@@ -1,6 +1,6 @@
 package com.aguitelson.visitor.architecture;
 
-abstract class Tree {
+public abstract class Tree {
 
     private int value;
     private Color color;

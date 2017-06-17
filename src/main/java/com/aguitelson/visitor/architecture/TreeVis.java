@@ -1,6 +1,6 @@
 package com.aguitelson.visitor.architecture;
 
-abstract class TreeVis
+public abstract class TreeVis
 {
     public abstract int getResult();
     public abstract void visitNode(TreeNode node);

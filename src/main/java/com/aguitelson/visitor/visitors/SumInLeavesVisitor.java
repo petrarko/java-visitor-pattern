@@ -4,7 +4,7 @@ import com.aguitelson.visitor.architecture.TreeLeaf;
 import com.aguitelson.visitor.architecture.TreeNode;
 import com.aguitelson.visitor.architecture.TreeVis;
 
-class SumInLeavesVisitor extends TreeVis {
+public class SumInLeavesVisitor extends TreeVis {
     public int getResult() {
         //implement this
         return 0;

@@ -1,7 +1,7 @@
 package com.aguitelson.visitor.visitors;
-import com.aguitelson.visitor.architecture.;
+import com.aguitelson.visitor.architecture.*;
 
-class FancyVisitor extends TreeVis {
+public class FancyVisitor extends TreeVis {
     public int getResult() {
         //implement this
         return 0;

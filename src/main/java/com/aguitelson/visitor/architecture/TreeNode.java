@@ -2,7 +2,7 @@ package com.aguitelson.visitor.architecture;
 
 import java.util.ArrayList;
 
-class TreeNode extends Tree {
+public class TreeNode extends Tree {
 
     private ArrayList<Tree> children = new ArrayList<>();
 

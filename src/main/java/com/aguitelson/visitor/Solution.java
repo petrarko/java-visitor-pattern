@@ -1,9 +1,15 @@
 package com.aguitelson.visitor;
 
+import com.aguitelson.visitor.architecture.Tree;
+import com.aguitelson.visitor.visitors.FancyVisitor;
+import com.aguitelson.visitor.visitors.ProductOfRedNodesVisitor;
+import com.aguitelson.visitor.visitors.SumInLeavesVisitor;
+
 public class Solution {
 
     public static Tree solve() {
         //read the tree from STDIN and return its root as a return value of this function
+        return null;
     }
 
     public static void main(String[] args) {
